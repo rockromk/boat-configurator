@@ -75,7 +75,7 @@
             { "id": "transport-tent", "name": "Транспортировочный", "price": 25500, "short": "При перевозке на прицепе", "description": "Лёгкий тент для защиты лодки во время транспортировки на прицепе.", "image": "https://static.tildacdn.com/tild3561-6238-4337-b461-613163323434/m.png" },
             { "id": "storage-tent", "name": "Стояночный", "price": 52400, "short": "На стоянке от осадков", "description": "Тент для защиты лодки от осадков и пыли во время стоянки на причале или в доке.", "image": "https://static.tildacdn.com/tild3561-6238-4337-b461-613163323434/m.png" }
         ]
-    }
+    },
     "windboat-49-dcx": {
         "boatName": "Windboat 4.9 DCx",
         "standardEquipment": [
